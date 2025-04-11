@@ -1,0 +1,4 @@
+pyttsx3
+requests
+speech_recognition
+streamlit

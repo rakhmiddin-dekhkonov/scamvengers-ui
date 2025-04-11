@@ -2,7 +2,7 @@ import streamlit as st
 import pyttsx3
 import speech_recognition as sr
 import requests
-import os
+
 
 # Function for Text-to-Speech (TTS)
 def text_to_speech(text, filename="output_audio.wav"):
